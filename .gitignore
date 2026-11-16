@@ -1,0 +1,10 @@
+# Configurações da IDE
+.idea/
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
